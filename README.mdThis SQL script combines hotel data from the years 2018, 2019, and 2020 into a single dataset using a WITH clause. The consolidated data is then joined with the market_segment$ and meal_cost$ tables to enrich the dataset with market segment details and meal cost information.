@@ -1,0 +1,1 @@
+This SQL script combines hotel data from the years 2018, 2019, and 2020 into a single dataset using a WITH clause. The consolidated data is then joined with the market_segment$ and meal_cost$ tables to enrich the dataset with market segment details and meal cost information.
